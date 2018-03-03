@@ -1,6 +1,8 @@
 # Moon
 Moon is an iOS 11 / Swift 4 based ARKit app that puts a high resolution Moon in your room.
 
+![](art/screenshot/moon-00.png?raw=true)
+
 ### Contributing
 See [CONTRIBUTING](CONTRIBUTING.md).
 
